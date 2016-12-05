@@ -9,4 +9,5 @@ Here is a screenshot of the app in the repo:
 
 <img src="https://github.com/raggedgenes/Chemoton_Game/blob/master/screenshot.png" />
 
+The code depends on the SFML lib. (<a href="http://www.sfml-dev.org/">Link</a>)
 
